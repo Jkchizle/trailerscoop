@@ -1,0 +1,10 @@
+{
+  "name": "TrailerScoop",
+  "version": "1.0.0",
+  "description": "Ultimate trailer downloader & organiser for Jellyfin (TMDb + YouTube via yt-dlp).",
+  "id": "9e4d3aaa-6d9a-4ad1-9d16-3c9bd6e4e1a9",
+  "targetAbi": "10.11.0.0",
+  "category": "Metadata",
+  "owner": "JKChizle"
+}
+
