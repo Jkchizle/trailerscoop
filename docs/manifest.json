@@ -2,19 +2,19 @@
   {
     "guid": "9e4d3aaa-6d9a-4ad1-9d16-3c9bd6e4e1a9",
     "name": "TrailerScoop",
-    "overview": "Ultimate trailer downloader & organiser for Jellyfin.",
-    "description": "Fetches official trailers via TMDb/YouTube with yt-dlp, stores beside media, and shows them in Jellyfin.",
+    "overview": "Trailer fetcher for Jellyfin (TMDb → YouTube → yt-dlp).",
+    "description": "Downloads official trailers and stores them beside your media.",
     "category": "Metadata",
-    "owner": "JKChizle",
+    "owner": "Jkchizle",
     "versions": [
       {
         "version": "1.0.0",
-        "changelog": "Initial local release.",
+        "changelog": "Initial public build.",
         "targetAbi": "10.11.0.0",
-        "sourceUrl": "http://localhost:8000/Jellyfin.Plugin.TrailerScoop_1.0.0.zip",
+        "sourceUrl": "https://jkchizle.github.io/trailerscoop/Jellyfin.Plugin.TrailerScoop_1.0.0.zip",
         "checksum": "1cee1404d63566143ccf885169f992d44e2bd5efad09a8b5137fe42ea4b04c67",
         "checksumAlgorithm": "SHA256",
-        "timestamp": "2025-11-08T21:45:42Z"
+        "timestamp": "2025-11-09T06:04:36Z"
       }
     ]
   }
