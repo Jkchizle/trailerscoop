@@ -12,9 +12,9 @@
         "changelog": "Initial public build.",
         "targetAbi": "10.11.0.0",
         "sourceUrl": "https://jkchizle.github.io/trailerscoop/Jellyfin.Plugin.TrailerScoop_1.0.0.zip",
-        "checksum": "1cee1404d63566143ccf885169f992d44e2bd5efad09a8b5137fe42ea4b04c67",
+        "checksum": "c65e14a7befa3fe563a2cc87318a351d3963be0094c2c8af52a5dbf5f1dd1047",
         "checksumAlgorithm": "SHA256",
-        "timestamp": "2025-11-09T06:04:36Z"
+        "timestamp": "2025-11-09T06:06:05Z"
       }
     ]
   }
