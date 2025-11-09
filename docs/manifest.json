@@ -2,7 +2,7 @@
   {
     "guid": "9e4d3aaa-6d9a-4ad1-9d16-3c9bd6e4e1a9",
     "name": "TrailerScoop",
-    "overview": "Trailer fetcher for Jellyfin (TMDb â†’ YouTube â†’ yt-dlp).",
+    "overview": "Trailer fetcher for Jellyfin (TMDb Ã¢â€ â€™ YouTube Ã¢â€ â€™ yt-dlp).",
     "description": "Downloads official trailers and stores them beside your media.",
     "category": "Metadata",
     "owner": "Jkchizle",
